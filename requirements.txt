@@ -1,0 +1,13 @@
+torch>=2.0
+torchvision
+timm
+numpy
+pillow
+scikit-learn
+matplotlib
+gradio
+huggingface_hub
+accelerate
+datasets
+python-magic
+kaggle
